@@ -10,6 +10,16 @@
             bindings = <&tog 4>;
             key-positions = <30 31>;
         };
+
+        enterkey {
+            bindings = <&kp ENTER>;
+            key-positions = <16 17>;
+        };
+
+        backspacekey {
+            bindings = <&kp BACKSPACE>;
+            key-positions = <17 18>;
+        };
     };
 
     keymap {
