@@ -66,7 +66,7 @@
 &kp TAB     &kp Q  &kp W  &kp E  &kp R        &trans  &trans  &trans  &trans  &trans
 &kp LCTRL   &kp A  &kp S  &kp D  &kp F        &trans  &trans  &trans  &trans  &trans
 &kp LSHIFT  &kp Z  &kp X  &kp C  &kp V        &trans  &trans  &trans  &trans  &trans
-                          &mo 5  &kp SPACE    &trans  &trans
+                          &mo 5  &kp SPACE    &to 0   &trans
             >;
         };
 
